@@ -13,6 +13,9 @@ tmtags
 ## VIM
 *.swp
 
+## Ruby
+*.rbe
+
 ## PROJECT::GENERAL
 logs
 log
