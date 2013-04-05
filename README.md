@@ -1,7 +1,7 @@
 Sugar
 =====
 
-[![Build Status](https://secure.travis-ci.org/andrewplummer/Sugar.png)](http://travis-ci.org/andrewplummer/Sugar)
+[![Build Status](https://travis-ci.org/kevincox/Sugar.png)](https://travis-ci.org/kevincox/Sugar)
 
 A Javascript library for working with native objects.
 http://sugarjs.com/
@@ -80,5 +80,3 @@ Other Contributions
 ===================
 
 For other contributions, please add well formed unit tests in the Sugar environment at `unit_tests/environments/sugar/MODULE.js`. Unit tests can be run directly in the browser from `unit_tests/sugar.html`, and should all be passing in all major browsers (Webkit,Mozilla,Opera, and IE6+). Node.js unit tests should also be passing and can be run in the console with `unit_tests/node.sh`.
-
-
